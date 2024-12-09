@@ -37,3 +37,9 @@ npm install
 Start the app with the following command:
 
 npm start
+
+
+##Design choices made from various online resources
+
+
+## thank you
